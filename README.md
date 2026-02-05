@@ -1,1 +1,2 @@
-https://github.com/PyFFeG/ono-tebe-nado.git
+https://github.com/PyFFeG/ono-tebe-nado-fd.git
+
